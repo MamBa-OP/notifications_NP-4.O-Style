@@ -3,7 +3,7 @@
 Event:
   - TriggerEvent('notifications:sendNotification', 2, 'Hello world!', 5000)
 
-For QB Relaace:
+For QB Replace:
 ```lua
 function QBCore.Functions.Notify(text, texttype, length)
     local color = 0
