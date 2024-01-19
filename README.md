@@ -4,6 +4,13 @@ Event:
   - TriggerEvent('notifications:sendNotification', 2, 'Hello world!', 5000)
 
 For QB Replace:
+
+Go to qb-core\client\functions.lua & search for
+```lua
+function QBCore.Functions.Notify
+```
+Delete whole function and replace this
+
 ```lua
 function QBCore.Functions.Notify(text, texttype, length)
     local color = 0
