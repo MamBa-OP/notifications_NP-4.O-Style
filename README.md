@@ -29,3 +29,7 @@ Colors:
 
 
 ![image](https://github.com/thesevenq/notifications/assets/59538879/7a399947-6ccd-4edf-89e3-2e2f7ec502c7)
+
+
+<p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/qb-rental-replace/count.svg" />
