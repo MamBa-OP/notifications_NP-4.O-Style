@@ -32,4 +32,4 @@ Colors:
 
 
 <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/qb-rental-replace/count.svg" />
+  <img src="https://profile-counter.glitch.me/notifications_NP-4.O-Style-replace/count.svg" />
